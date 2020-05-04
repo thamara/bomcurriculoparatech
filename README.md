@@ -1,7 +1,6 @@
 # Como fazer um bom currículo pra TI
 
-- [10 dicas para um currículo perfeito
-Fonte: https://www.guiadacarreira.com.br/carreira/10-dicas-para-um-curriculo-perfeito/](https://www.guiadacarreira.com.br/carreira/10-dicas-para-um-curriculo-perfeito/)
+- [10 dicas para um currículo perfeito](https://www.guiadacarreira.com.br/carreira/10-dicas-para-um-curriculo-perfeito/)
 - [Dicas de como fazer um currículo perfeito para buscar emprego](https://catracalivre.com.br/carreira/como-fazer-curriculo/)
 - [6 dicas para montar um bom currículo de TI](https://computerworld.com.br/2018/12/04/6-dicas-para-montar-um-bom-curriculo-de-ti/)
 - [6 dicas para melhorar o currículo da profissão mais quente na área de TI](https://exame.abril.com.br/carreira/6-dicas-para-melhorar-o-curriculo-da-profissao-mais-quente-na-area-de-ti/)
