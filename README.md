@@ -8,3 +8,10 @@ Fonte: https://www.guiadacarreira.com.br/carreira/10-dicas-para-um-curriculo-per
 - [Dicas de currículo para Tecnologia da Informação](https://www.contratopj.com.br/dicas-de-curriculo-para-tecnologia-da-informacao/)
 - [Como escrever um bom currículo para a área de TI](https://www.treinaweb.com.br/blog/como-escrever-bom-curriculo-area-ti/)
 - [Como elaborar um bom currículo para a área de TI](https://www.catho.com.br/carreira-sucesso/carreira/dicas-emprego/como-elaborar-um-bom-curriculo-para-a-area-de-ti/)
+
+## Ferramentas para montar um curriculo
+
+- [Faça seu currículo (Senai)](https://www.mundosenai.com.br/curriculum/)
+- [Criando um currículo usando o LinkedIn (e outros links)](https://canaltech.com.br/carreira/como-criar-um-curriculo-a-partir-do-seu-perfil-no-linkedin/)
+- [KickResume (em inglês com versão gratis limitada)](https://www.kickresume.com/en/)
+- [Meu currículo Perfeito](https://www.meucurriculoperfeito.com.br/)
