@@ -189,22 +189,13 @@ Invista também na presença online em sites como o LinkedIn e o Github:
 
 # Referências
 
-[10 dicas para um currículo perfeito](https://www.guiadacarreira.com.br/carreira/10-dicas-para-um-curriculo-perfeito/)
-
-[Dicas essenciais de como fazer um currículo perfeito para buscar emprego](https://catracalivre.com.br/carreira/como-fazer-curriculo/)
-
-[6 dicas para montar um bom currículo de TI - Computerworld](https://computerworld.com.br/2018/12/04/6-dicas-para-montar-um-bom-curriculo-de-ti/)
-
-[6 dicas para melhorar o currículo da profissão mais quente na área de TI](https://exame.abril.com.br/carreira/6-dicas-para-melhorar-o-curriculo-da-profissao-mais-quente-na-area-de-ti/)
-
-[Dicas de currículo para Tecnologia da Informação](https://www.contratopj.com.br/dicas-de-curriculo-para-tecnologia-da-informacao/)
-
-[Como escrever um bom currículo para a área de TI - Blog da TreinaWeb](https://www.treinaweb.com.br/blog/como-escrever-bom-curriculo-area-ti/)
-
-[Resume Dos and Don'ts: Making Recruiters Take Notice](https://www.akkencloud.com/resume-dos-donts/)
-
-[the-best-and-worst-words-to-have-on-your-resume](https://www.careerbuilder.com/advice/the-best-and-worst-words-to-have-on-your-resume)
-
-[22 next-level resume tips from a pro - your checklist for a killer resume](https://www.careerbuilder.com/advice/22-next-level-resume-tips-from-pro-your-checklist-killer-resume)
-
-[30 Words That Will Make or Break Your Resume](https://www.thebalancecareers.com/top-words-to-include-and-avoid-in-your-resume-2063329)
+- [Guia da Carreira: 10 dicas para um currículo perfeito](https://www.guiadacarreira.com.br/carreira/10-dicas-para-um-curriculo-perfeito/)
+- [Catraca livre: Dicas essenciais de como fazer um currículo perfeito para buscar emprego](https://catracalivre.com.br/carreira/como-fazer-curriculo/)
+- [Compute World: 6 dicas para montar um bom currículo de TI - Computerworld](https://computerworld.com.br/2018/12/04/6-dicas-para-montar-um-bom-curriculo-de-ti/)
+- [Exame: 6 dicas para melhorar o currículo da profissão mais quente na área de TI](https://exame.abril.com.br/carreira/6-dicas-para-melhorar-o-curriculo-da-profissao-mais-quente-na-area-de-ti/)
+- [Contrato PJ: Dicas de currículo para Tecnologia da Informação](https://www.contratopj.com.br/dicas-de-curriculo-para-tecnologia-da-informacao/)
+- [Treina Web: Como escrever um bom currículo para a área de TI - Blog da TreinaWeb](https://www.treinaweb.com.br/blog/como-escrever-bom-curriculo-area-ti/)
+- [Akken Cloud: Resume Dos and Don'ts: Making Recruiters Take Notice](https://www.akkencloud.com/resume-dos-donts/)
+- [Career Builder: The best (and worst) words to have on your resume](https://www.careerbuilder.com/advice/the-best-and-worst-words-to-have-on-your-resume)
+- [Carerr Builder: 22 next-level resume tips from a pro - your checklist for a killer resume](https://www.careerbuilder.com/advice/22-next-level-resume-tips-from-pro-your-checklist-killer-resume)
+- [The Balance Careers: 30 Words That Will Make or Break Your Resume](https://www.thebalancecareers.com/top-words-to-include-and-avoid-in-your-resume-2063329)
