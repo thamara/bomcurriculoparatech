@@ -1,4 +1,4 @@
-# Como fazer um bom currículo pra TI
+# Como fazer um bom currículo para TI
 
 Aqui apresentamos uma coleção de dicas para a criação de um bom curriculo voltado para a área de tecnologia.
 Cada empresa tem seu próprio sistema de avaliação de currículos podendo valorizar pontos diferentes dos apresentados aqui. 
