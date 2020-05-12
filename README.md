@@ -146,7 +146,7 @@ Cuidado com os nomes usados em emails e endereços de redes sociais. Evite apeli
 
 # O que realçar de acordo com o momento profissional
 
-## Primeiro emprego ou início de carreira
+### Primeiro emprego ou início de carreira
 
 - Não tente embelezar demais o currículo para "esconder" pouca experiencia
 - Para te diferenciar, foque em listar de forma breve experiências e conquistas como:
@@ -156,19 +156,19 @@ Cuidado com os nomes usados em emails e endereços de redes sociais. Evite apeli
     - Trabalho de Conclusão de Curso
     - Projetos extras
 
-## Estágio
+### Estágio
 
 - Além das dicas anteriores, dê destaque à formação acadêmica, cursos de idioma e ativadades extracurriculares.
 
-## Trainee
+### Trainee
 
 - Procure valorizar suas habilidades e especialização, caso você tenha.
 
-## Analistas
+### Analistas
 
 - Valorize experiências técnicas em empregos anteriores.
 
-## Para quem está se especializando
+### Para quem está se especializando
 
 - Realce a fase da carreira que você está, o que você já conquistou e posições que ocupou.
 
