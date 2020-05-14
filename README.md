@@ -63,7 +63,7 @@ Todas as dicas aqui são baseadas em pesquisas na internet e representam uma vis
 ## Revise, revise, revise
 
 - Confirme todas as datas usadas
-- Peça para que amigas e colegas revisem seu currículo e sugiram melhorias
+- Peça para que outras pessoas revisem seu currículo e sugiram melhorias
 - Leia em voz alta, preste atenção se os mesmos termos se repetem com muita frequência
 
 ## Foto
