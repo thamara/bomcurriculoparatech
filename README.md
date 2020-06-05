@@ -1,3 +1,7 @@
+---
+description: Uma coleção de dicas e fontes para criar um bom currículo pra área de TI
+---
+
 # Como fazer um bom currículo para a área de tecnologia
 
 ## Como fazer um bom currículo para a área de tecnologia
