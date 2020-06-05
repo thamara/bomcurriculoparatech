@@ -2,13 +2,13 @@
 
 Crie setores de informação no seu currículo. Uma boa setorização inclui:
 
-* [Dados pessoais](./#Dados-pessoais)
-* [Apresentação](./#Apresentação)
-* [Experiência profissional](./#Experiencia-profissional)
-* [Cursos extras e treinamentos](./#Cursos-extras-e-treinamentos)
-* [Formação acadêmica](./#Formação-acadêmica)
-* [Projetos e conquistas](./#Projetos-e-conquistas)
-* [Idiomas](./#Idiomas)
+* [Dados pessoais](estrutura-do-curriculo.md#dados-pessoais)
+* [Apresentação](estrutura-do-curriculo.md#apresentacao)
+* [Experiência profissional](estrutura-do-curriculo.md#experiencia-profissional)
+* [Cursos extras e treinamentos](estrutura-do-curriculo.md#cursos-extras-e-treinamentos)
+* [Formação acadêmica](estrutura-do-curriculo.md#formacao-academica)
+* [Projetos e conquistas](estrutura-do-curriculo.md#projetos-e-conquistas)
+* [Idiomas](estrutura-do-curriculo.md#idiomas)
 
 #### Dados pessoais
 
