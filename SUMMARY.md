@@ -2,7 +2,7 @@
 
 * [Como fazer um bom currículo para a área de tecnologia](README.md)
 
-## Dicas Gerais
+## Conteúdo
 
 * [Dicas gerais](dicas-gerais-1.md)
 * [Estrutura do currículo](estrutura-do-curriculo.md)
