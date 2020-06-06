@@ -15,6 +15,8 @@
 * Utilize o tamanho A4
 * Concentre as informações em 1 página \(no máximo 2\)
 * Opte por enviar no formato PDF e dê um nome significativo para o arquivo
+  * No [Microsoft Word](https://support.microsoft.com/pt-br/office/criar-pdfs-acess%c3%adveis-064625e0-56ea-4e16-ad71-3aa33bb4b7ed?ui=pt-br&rs=pt-br&ad=br#:~:text=Office%20para%20Web,-Antes%20de%20gerar&text=Na%20faixa%20de%20op%C3%A7%C3%B5es%2C%20selecione,o%20seu%20documento%20em%20PDF.): Arquivo &gt; Salvar Como &gt; Escolher PDF no Salvar como tipo 
+  * No Google Docs: Arquivo &gt; Fazer o download &gt; Documento PDF \(.pdf\)
 
 ## Linguagem
 
