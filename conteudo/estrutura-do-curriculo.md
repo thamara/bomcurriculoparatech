@@ -17,7 +17,7 @@ Não coloque informações demais e desnecessárias, foque em:
 * Nome completo
 * E-mail
 * Telefone de contato
-* Endereço do perfil em redes sociais profissionais como LinkedIn e GitHub
+* Endereço do perfil em redes sociais profissionais como [LinkedIn][1] e [GitHub][2]
 * Cidade onde mora
 
 Cuidado com os nomes usados em e-mails e endereços de redes sociais. Evite apelidos ou associações com personagens, videogames, etc. Use apenas o seu nome real.
@@ -70,4 +70,7 @@ Cuidado com os nomes usados em e-mails e endereços de redes sociais. Evite apel
 ## Idiomas
 
 * Coloque os idiomas e nível de fluência
+
+[1]: https://br.linkedin.com/
+[2]: https://github.com/
 
