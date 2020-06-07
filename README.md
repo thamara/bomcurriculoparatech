@@ -6,7 +6,7 @@ description: Uma coleção de dicas e fontes para criar um bom currículo pra á
 
 ## Como fazer um bom currículo para a área de tecnologia
 
-Aqui apresentamos uma coleção de dicas para a criação de um bom curriculo voltado para a área de tecnologia. Cada empresa tem seu próprio sistema de avaliação de currículos podendo valorizar pontos diferentes dos apresentados aqui. Todas as dicas aqui são baseadas em pesquisas na internet e representam uma visão geral. Ao tentar uma vaga em uma empresa, pesquise sobre ela para entender o que eles valorizam mais e adapte o seu currículo para tal.
+Aqui apresentamos uma coleção de dicas para a criação de um bom currículo voltado para a área de tecnologia. Cada empresa tem seu próprio sistema de avaliação de currículos podendo valorizar pontos diferentes dos apresentados aqui. Todas as dicas aqui são baseadas em pesquisas na internet e representam uma visão geral. Ao tentar uma vaga em uma empresa, pesquise sobre ela para entender o que eles valorizam mais e adapte o seu currículo para tal.
 
 ## Tópicos
 
@@ -31,6 +31,6 @@ Aqui apresentamos uma coleção de dicas para a criação de um bom curriculo vo
   * [Analistas](conteudo/o-que-realcar-de-acordo-com-o-momento-profissional.md#analistas)
   * [Para quem está se especializando](conteudo/o-que-realcar-de-acordo-com-o-momento-profissional.md#para-quem-esta-se-especializando)
 * [Além do currículo](conteudo/alem-do-curriculo.md)
-* [Ferramentas para criar um curriculo](conteudo/ferramentas-para-criar-um-curriculo.md)
+* [Ferramentas para criar um currículo](conteudo/ferramentas-para-criar-um-curriculo.md)
 * [Referências](conteudo/referencias.md)
 

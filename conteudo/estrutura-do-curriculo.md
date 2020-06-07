@@ -15,12 +15,12 @@ Crie setores de informação no seu currículo. Uma boa setorização inclui:
 Não coloque informações demais e desnecessárias, foque em:
 
 * Nome completo
-* Email
+* E-mail
 * Telefone de contato
-* Endereço do perfil em redes sociais profissionais como LinkedIn e Github
+* Endereço do perfil em redes sociais profissionais como LinkedIn e GitHub
 * Cidade onde mora
 
-Cuidado com os nomes usados em emails e endereços de redes sociais. Evite apelidos ou associações com personagens, videogames, etc. Use apenas o seu nome real.
+Cuidado com os nomes usados em e-mails e endereços de redes sociais. Evite apelidos ou associações com personagens, videogames, etc. Use apenas o seu nome real.
 
 ## Apresentação
 
@@ -29,12 +29,12 @@ Cuidado com os nomes usados em emails e endereços de redes sociais. Evite apeli
 
 #### Experiência profissional
 
-* Se é seu primeiro emprego, essa seção não existirá, e isso não tem problema
+* Se é seu primeiro emprego, essa seção não existirá, e isso não é um problema
 * Comece a listar pelo mais recente
 * Mantenha o padrão nas informações dadas
 * Liste cada experiencia com:
   * Nome da empresa
-  * Ultimo cargo ou função
+  * Último cargo ou função
   * Período em que trabalhou nesta empresa \(ou se ainda está nela\)
   * Resumo das atividades de forma breve. Ressalte os resultados e conquistas. Deixe claro tecnologias e habilidades usadas, especialmente se relacionado a vaga que você deseja se candidatar
     * Lembre-se também de realçar suas habilidades humanas e interpessoais \(soft skills\), além das técnicas
@@ -42,7 +42,7 @@ Cuidado com os nomes usados em emails e endereços de redes sociais. Evite apeli
 
 ## Cursos extras e treinamentos
 
-* Realce cursos técnicos, experiencias internacionais, ou participação de eventos relacionados á área de interesse
+* Realce cursos técnicos, experiencias internacionais, ou participação de eventos relacionados à área de interesse
   * Não liste todo e qualquer treinamento, foque naqueles que tem maior impacto para a vaga desejada
 * Liste tal conteúdo incluindo:
   * Título
@@ -62,7 +62,7 @@ Cuidado com os nomes usados em emails e endereços de redes sociais. Evite apeli
 
 ## Projetos e conquistas
 
-* Liste projetos que você se envolveu/envolve com uma breve descrição do projeto e das suas atividades e o tempo que esteve envolvido
+* Liste projetos que você se envolveu/envolve com uma breve descrição do projeto e das suas atividades e o tempo em que esteve envolvido
   * Se possível acrescente links para as páginas dos projetos
   * Vale incluir projetos pessoais, repositórios de código, contribuições para a comunidade
 * Liste também conquistas relevantes como participação e resultados de maratonas de programação, _hackathons_ e portais de desafios de programação

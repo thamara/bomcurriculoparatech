@@ -3,7 +3,7 @@
 ## Currículo vivo
 
 * Mantenha sempre seu currículo atualizado
-* Ajuste o currículo para a vaga que deseja aplicar, realçando os conhecimentos e experiencia pedidos pela vaga
+* Ajuste o currículo para a vaga que deseja aplicar, realçando os conhecimentos e experiencia pedidos por ela
 * Tente deixar claro que você investiu tempo e esforço em criar o currículo
 
 ## Formatação
