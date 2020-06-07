@@ -1,6 +1,6 @@
 # O que realçar de acordo com o momento profissional
 
-O currículo de uma pessoa em início de carreira é muito diferente quando comparado a alguem que está no mercado há anos. Ajuste o seu currículo de acordo com a sua realidade.
+O currículo de uma pessoa em início de carreira é muito diferente do de alguém que está no mercado há anos. Ajuste o seu currículo de acordo com a sua realidade.
 
 ## Primeiro emprego ou início de carreira
 
